@@ -4,7 +4,7 @@
   "description": "A backend for hrresume website",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "Node",
